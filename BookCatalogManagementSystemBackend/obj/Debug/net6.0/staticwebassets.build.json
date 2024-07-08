@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8wbWHsUQUIxR9RFp2A+dsLgXwTm1a786OfG35iOItL4=",
+  "Source": "BookCatalogManagementSystemBackend",
+  "BasePath": "_content/BookCatalogManagementSystemBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

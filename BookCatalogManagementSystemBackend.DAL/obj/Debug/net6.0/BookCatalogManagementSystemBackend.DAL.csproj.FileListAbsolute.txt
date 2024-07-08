@@ -1,0 +1,17 @@
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.DAL\bin\Debug\net6.0\BookCatalogManagementSystemBackend.DAL.deps.json
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.DAL\bin\Debug\net6.0\BookCatalogManagementSystemBackend.DAL.runtimeconfig.json
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.DAL\bin\Debug\net6.0\BookCatalogManagementSystemBackend.DAL.dll
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.DAL\bin\Debug\net6.0\BookCatalogManagementSystemBackend.DAL.pdb
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.DAL\bin\Debug\net6.0\BookCatalogManagementSystemBackend.Models.dll
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.DAL\bin\Debug\net6.0\BookCatalogManagementSystemBackend.Models.pdb
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.DAL\obj\Debug\net6.0\BookCatalogManagementSystemBackend.DAL.csproj.AssemblyReference.cache
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.DAL\obj\Debug\net6.0\BookCatalogManagementSystemBackend.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.DAL\obj\Debug\net6.0\BookCatalogManagementSystemBackend.DAL.AssemblyInfoInputs.cache
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.DAL\obj\Debug\net6.0\BookCatalogManagementSystemBackend.DAL.AssemblyInfo.cs
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.DAL\obj\Debug\net6.0\BookCatalogManagementSystemBackend.DAL.csproj.CoreCompileInputs.cache
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.DAL\obj\Debug\net6.0\BookCatalogManagementSystemBackend.DAL.csproj.CopyComplete
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.DAL\obj\Debug\net6.0\BookCatalogManagementSystemBackend.DAL.dll
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.DAL\obj\Debug\net6.0\refint\BookCatalogManagementSystemBackend.DAL.dll
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.DAL\obj\Debug\net6.0\BookCatalogManagementSystemBackend.DAL.pdb
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.DAL\obj\Debug\net6.0\BookCatalogManagementSystemBackend.DAL.genruntimeconfig.cache
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.DAL\obj\Debug\net6.0\ref\BookCatalogManagementSystemBackend.DAL.dll
