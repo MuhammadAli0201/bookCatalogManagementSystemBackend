@@ -22,6 +22,13 @@ namespace BookCatalogManagementSystemBackend.Controllers
             var books = await _bookRepository.Get();
             return Ok(books);
         }
+        
+        [HttpGet("GetById")]
+        public async Task<IActionResult> GetById(Guid id)
+        {
+            var book = await _bookRepository.GetSingle(id);
+            return Ok(book.MapModelToDTO());
+        }
 
         [HttpGet("Search")]
         public async Task<IActionResult> Search(string query)

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagementSystemBackend.Models\\BookCatalogManagementSystemBackend.Models.csproj": {}
+    "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagement\\Backend\\BookCatalogManagementSystemBackend.Models\\BookCatalogManagementSystemBackend.Models.csproj": {}
   },
   "projects": {
-    "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagementSystemBackend.Models\\BookCatalogManagementSystemBackend.Models.csproj": {
+    "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagement\\Backend\\BookCatalogManagementSystemBackend.Models\\BookCatalogManagementSystemBackend.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagementSystemBackend.Models\\BookCatalogManagementSystemBackend.Models.csproj",
+        "projectUniqueName": "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagement\\Backend\\BookCatalogManagementSystemBackend.Models\\BookCatalogManagementSystemBackend.Models.csproj",
         "projectName": "BookCatalogManagementSystemBackend.Models",
-        "projectPath": "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagementSystemBackend.Models\\BookCatalogManagementSystemBackend.Models.csproj",
+        "projectPath": "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagement\\Backend\\BookCatalogManagementSystemBackend.Models\\BookCatalogManagementSystemBackend.Models.csproj",
         "packagesPath": "C:\\Users\\aliaw\\.nuget\\packages\\",
-        "outputPath": "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagementSystemBackend.Models\\obj\\",
+        "outputPath": "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagement\\Backend\\BookCatalogManagementSystemBackend.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

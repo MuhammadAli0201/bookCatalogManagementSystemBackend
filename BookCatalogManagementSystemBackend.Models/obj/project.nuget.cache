@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jPR5ZNttH3E2MnhCuoqcRqcNeuRMlTs/qG45ReGkLpk8PKSaFD+NPw+2a9VxOcj0SGqWyE/GAnCTAyRrUdB8bQ==",
+  "dgSpecHash": "D0WlBtrHQ9XwXuq3v82kDrsMtR1vTd60RDQ+VCztUaQ/YlmYPcLzLOaJCnAJXiNv7KK48+/I7Z4WwFno1SK0Jg==",
   "success": true,
-  "projectFilePath": "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagementSystemBackend.Models\\BookCatalogManagementSystemBackend.Models.csproj",
+  "projectFilePath": "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagement\\Backend\\BookCatalogManagementSystemBackend.Models\\BookCatalogManagementSystemBackend.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

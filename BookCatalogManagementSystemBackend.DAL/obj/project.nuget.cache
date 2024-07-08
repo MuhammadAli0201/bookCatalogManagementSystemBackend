@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OJE0Dx4jwpfHGWBZgFqbIitNwGyAMbxjyhRqlCqQBXzitlR1D8towKHXfKng6jxlgY1XBtETVaf1/tjHJqgN5Q==",
+  "dgSpecHash": "xPJLz/T7fppmq3jkSJ6MKjWNZ+OG+wo3Ayp8hEq+NdC1PgjUFZNgiWRMoG4fZ5tJw69xw1U3WixEuMP+GJdJZg==",
   "success": true,
-  "projectFilePath": "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagementSystemBackend.DAL\\BookCatalogManagementSystemBackend.DAL.csproj",
+  "projectFilePath": "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagement\\Backend\\BookCatalogManagementSystemBackend.DAL\\BookCatalogManagementSystemBackend.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aliaw\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

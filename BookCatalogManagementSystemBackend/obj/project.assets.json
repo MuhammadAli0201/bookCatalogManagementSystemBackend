@@ -2632,11 +2632,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagementSystemBackend\\BookCatalogManagementSystemBackend.csproj",
+      "projectUniqueName": "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagement\\Backend\\BookCatalogManagementSystemBackend\\BookCatalogManagementSystemBackend.csproj",
       "projectName": "BookCatalogManagementSystemBackend",
-      "projectPath": "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagementSystemBackend\\BookCatalogManagementSystemBackend.csproj",
+      "projectPath": "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagement\\Backend\\BookCatalogManagementSystemBackend\\BookCatalogManagementSystemBackend.csproj",
       "packagesPath": "C:\\Users\\aliaw\\.nuget\\packages\\",
-      "outputPath": "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagementSystemBackend\\obj\\",
+      "outputPath": "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagement\\Backend\\BookCatalogManagementSystemBackend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2656,8 +2656,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagementSystemBackend.DAL\\BookCatalogManagementSystemBackend.DAL.csproj": {
-              "projectPath": "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagementSystemBackend.DAL\\BookCatalogManagementSystemBackend.DAL.csproj"
+            "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagement\\Backend\\BookCatalogManagementSystemBackend.DAL\\BookCatalogManagementSystemBackend.DAL.csproj": {
+              "projectPath": "F:\\Stallions\\Intern\\Angular+Dotnet\\BookCatalogManagement\\Backend\\BookCatalogManagementSystemBackend.DAL\\BookCatalogManagementSystemBackend.DAL.csproj"
             }
           }
         }

@@ -9,3 +9,14 @@ F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.Models\obj
 F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.Models\obj\Debug\net6.0\refint\BookCatalogManagementSystemBackend.Models.dll
 F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.Models\obj\Debug\net6.0\BookCatalogManagementSystemBackend.Models.pdb
 F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagementSystemBackend.Models\obj\Debug\net6.0\ref\BookCatalogManagementSystemBackend.Models.dll
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagement\Backend\BookCatalogManagementSystemBackend.Models\bin\Debug\net6.0\BookCatalogManagementSystemBackend.Models.deps.json
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagement\Backend\BookCatalogManagementSystemBackend.Models\bin\Debug\net6.0\BookCatalogManagementSystemBackend.Models.dll
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagement\Backend\BookCatalogManagementSystemBackend.Models\bin\Debug\net6.0\BookCatalogManagementSystemBackend.Models.pdb
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagement\Backend\BookCatalogManagementSystemBackend.Models\obj\Debug\net6.0\BookCatalogManagementSystemBackend.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagement\Backend\BookCatalogManagementSystemBackend.Models\obj\Debug\net6.0\BookCatalogManagementSystemBackend.Models.AssemblyInfoInputs.cache
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagement\Backend\BookCatalogManagementSystemBackend.Models\obj\Debug\net6.0\BookCatalogManagementSystemBackend.Models.AssemblyInfo.cs
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagement\Backend\BookCatalogManagementSystemBackend.Models\obj\Debug\net6.0\BookCatalogManagementSystemBackend.Models.csproj.CoreCompileInputs.cache
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagement\Backend\BookCatalogManagementSystemBackend.Models\obj\Debug\net6.0\BookCatalogManagementSystemBackend.Models.dll
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagement\Backend\BookCatalogManagementSystemBackend.Models\obj\Debug\net6.0\refint\BookCatalogManagementSystemBackend.Models.dll
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagement\Backend\BookCatalogManagementSystemBackend.Models\obj\Debug\net6.0\BookCatalogManagementSystemBackend.Models.pdb
+F:\Stallions\Intern\Angular+Dotnet\BookCatalogManagement\Backend\BookCatalogManagementSystemBackend.Models\obj\Debug\net6.0\ref\BookCatalogManagementSystemBackend.Models.dll
